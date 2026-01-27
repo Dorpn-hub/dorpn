@@ -47,7 +47,7 @@ Dorpn follows three core principles:
 - ✓ **Sub-millisecond startup** - Perfect for CLI tools
 - ✓ **Linear scaling** - Predictable performance growth
 - ✓ **Minimal base memory** - Efficient for constrained environments
-- + **Compilation overhead** - Trade-off for runtime speed
+- ✓ **Compilation overhead** - Trade-off for runtime speed
 ### ● Performance Highlights
 
 **Dorpn's Strengths:**
